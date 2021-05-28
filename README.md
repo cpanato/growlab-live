@@ -1,2 +1,3 @@
 # growlab-live
-Live growlab images
+
+Live images for [growlab](https://github.com/alexellis/growlab)
